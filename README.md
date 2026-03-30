@@ -3,7 +3,7 @@ Cyber Security
 # Disclaimer
 **The contents of this repository are solely intended for security research and educational purposes**
 1. **Purpose limitation**
-    This repository (including but not limited to the codes, scripts, and description documents within) is released solely to assist security researchers and CVE (Common Vulnerabilities and Exposures) reviewers in verifying the existence of vulnerabilities. The purpose of releasing such information is to enhance awareness of network security protection and facilitate the rapid remediation of vulnerabilities.
+    This repository (including but not limited to the codes, issues，scripts, and description documents within) is released solely to assist security researchers and CVE (Common Vulnerabilities and Exposures) reviewers in verifying the existence of vulnerabilities. The purpose of releasing such information is to enhance awareness of network security protection and facilitate the rapid remediation of vulnerabilities.
 2. **Prohibition of illegal use**
     It is strictly prohibited to use any technical content in this warehouse for any of the following activities:
     * Unauthorized network intrusion or penetration testing;
